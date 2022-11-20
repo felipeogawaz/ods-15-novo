@@ -1,6 +1,5 @@
 .navcorup{
-    position: absolute;
-    width: 100%;
+    position: relative;
     left: 0px;
     top: 0px;
     
@@ -8,26 +7,24 @@
 }
 
 .wrapper{
-    position: absolute;
-    width: 100%;
-    height: 100%;
+    position: relative;
     left: 0;
     top: 0;
     background-color: #88df8f;
 }
 
 .img-up{
-    position: absolute;
+    position: relative;
     left: 0;
     top: 0;
-    Opacity: 70%
+    Opacity: 100%
 }
 
 .a{
     color: black
 }
 
-.body{
+body{
     background-color: #88df8f;
 }
 
@@ -51,7 +48,7 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 25px;
-    color: #24692a !important;
+    color: #538157 !important;
     margin-left: auto;
     margin-right: auto;
     align-items: center;
@@ -63,8 +60,8 @@
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 25px;
+    font-size: 16px;
+    line-height: 23px;
     color: #88df8f!important;
     margin-left: auto;
     margin-right: auto;
@@ -87,3 +84,16 @@ h1 {
     width: 90%;
 }
 
+.carousel{
+    position: relative;
+    left: 9px;
+    background-color: #00000000;
+    width: 97% ;
+}
+
+.footer{
+    position: relative;
+    left: 0%;
+    width: auto;
+    height: 90px;
+}

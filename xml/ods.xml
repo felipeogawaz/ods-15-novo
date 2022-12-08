@@ -1,1 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<blog>
+    <imagem1>ODS-15.png</imagem1>
+    <texto1> Proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, gerir de forma sustentável as florestas, combater a desertificação, deter e reverter a degradação da terra e deter a perda de biodiversidade.  </texto1>
+
+    <imagem2>ods.png</imagem2>
+    <texto2> Os ODS representam um plano de ação global para eliminar a pobreza extrema e a fome, oferecer educação de qualidade ao longo da vida para todos, proteger o planeta e promover sociedades pacíficas e inclusivas até 2030.</texto2>
+</blog>

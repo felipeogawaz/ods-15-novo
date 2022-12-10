@@ -34,3 +34,21 @@ function texto2() {
             "</>");
     }
 }
+
+function titulo() {
+
+    for (i = x.length - 1; i >= 0; i--) {
+        document.write("<h1 class='font1'>" +
+            x[i].getElementsByTagName("titulo")[0].childNodes[0].nodeValue +
+            "</h1>");
+    }
+}
+
+function noticia() {
+
+    for (i = x.length - 1; i >= 0; i--) {
+        document.write("<p class='font1'>" +
+            x[i].getElementsByTagName("noticia")[0].childNodes[0].nodeValue +
+            "</>");
+    }
+}
